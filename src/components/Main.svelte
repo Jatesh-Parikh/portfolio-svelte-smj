@@ -37,7 +37,7 @@
             metric: "10x",
             name: "a self taught developer",
             description:
-                "I taught myself to code using free online resources and absolutely fell in love with programming and problem solving. Starting of with HTML, CSS, and JavaScript and evolving my knowledge to include Frontend libraries and frameworks <strong>(React + Svelte + Astro)</strong>, backend development <strong>(Node + Express, Django)</strong>, design, cloud services and much much more.",
+                `I taught myself to code using free online resources and absolutely fell in love with programming and problem solving. Starting of with HTML, CSS, and JavaScript and evolving my knowledge to include Frontend libraries and frameworks (React + Svelte + Astro), backend development (Node + Express, Django), design, cloud services and much much more.`,
         },
         {
             name: "UX fanatic",
