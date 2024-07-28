@@ -69,7 +69,7 @@
                 <div
                     class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-25 group-hover:translate-x-full z-0 duration-200"
                 />
-                <h4 class="relative z-9">Get in touch &rarr;</h4>
+                <a href="#footer" class="relative z-9">Get in touch &rarr;</a>
             </button>
         </div>
         <div class="relative shadow-2xl grid place-items-center">
